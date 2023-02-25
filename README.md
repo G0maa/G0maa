@@ -3,7 +3,15 @@
 
 # Salam 👋🏻, I'm Gomaa
 
-- To-Do bio
+```
+Senior computer science student at Higher Technological Institute,
+Problem Solver, and a Backend Web Developer.
+
+Tech stack is mainly React, Node.js, Express.js, MongoDB & PostgreSQL,
+also had practical experience with Docker & CI/CD while studying FullstackOpen course.
+
+ECPC Finalist & Co-Founder of ICPC HTI - Student activity.
+```
 
 # Wanna catch up? 🧐
 
