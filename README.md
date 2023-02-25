@@ -36,6 +36,8 @@
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Redux-%232C5263.svg?style=for-the-badge&logo=Redux&logoColor=white"/>
 </h1>
 <br>
+<br>
+<br>
 
 # (hopefully) Flashy stats 🤩
 
