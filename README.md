@@ -7,6 +7,8 @@
 
 # Wanna catch up? 🧐
 
+<!-- I'm skeptical of this lasting for one year 25/2/2023 -->
+
   <a href="https://www.linkedin.com/in/gomaamohammed/">
     <img align="left" alt="Gomaa | Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -18,7 +20,9 @@
 
 # Skills
 
-- To-do skills
+<h1  align="center">
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</h1>
 
 # (hopefully) Flashy stats 🤩
 
