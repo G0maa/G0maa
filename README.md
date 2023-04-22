@@ -28,7 +28,7 @@ ECPC Finalist & Co-Founder of ICPC HTI - Student activity.
 <br>
 <br>
 
-# Skills (fixing rn)
+# Skills
 
 <h1  align="center">
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/javascript-%2300ADD8.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
