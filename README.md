@@ -20,13 +20,13 @@ don't be shy to connect with me on LinkedIn 😁
 - [My School](https://github.com/G0maa/my-school-server): A School Management System that answers four main queries; Grades, Fees, Subject Schedules & Subjects' Material.
 - [Songify API](https://github.com/G0maa/songify-app): A Music Recommendation System where I used RabbitMQ & ElasticSearch for a change.
 
-# Wanna catch up? 🧐
+## Wanna catch up? 🧐
 
 |                                                                                  |                                                                 |                                                               |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
 | [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/gomaamohammed/) | [![LinkedIn](./images/twitter.svg)](https://twitter.com/_g0maa) | [![Gmail](./images/gmail.svg)](mailto:midomaxgomaa@gmail.com) |
 
-# Skills
+## Skills
 
 <!-- I think I can't remove this? -->
 
@@ -34,7 +34,7 @@ don't be shy to connect with me on LinkedIn 😁
 - ![HTML](./images/html.svg) ![CSS](./images/css.svg) ![Reactjs](./images/react.svg) ![Reduxjs](./images/redux.svg)
 - ![Docker](./images/docker.svg) ![Github Actions](./images/github-actions.svg)
 
-# (hopefully) Flashy stats 🤩
+## (hopefully) Flashy stats 🤩
 
 [![Gomaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0maa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Gomaa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0maa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
