@@ -16,21 +16,20 @@ don't be shy to connect with me on LinkedIn 😁
 ```
 
 ## Featured Projects
+
 - [My School](https://github.com/G0maa/my-school-server): A School Management System that answers four main queries; Grades, Fees, Subject Schedules & Subjects' Material.
 - [Songify API](https://github.com/G0maa/songify-app): A Music Recommendation System where I used RabbitMQ & ElasticSearch for a change.
-
 
 # Wanna catch up? 🧐
 
 <!-- I'm skeptical of this lasting for one year 25/2/2023 -->
+
 [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)
 [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)
 [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)
 
-
-| [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)  | [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)  |  [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) |
-|---|---|---|
-
+| [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) | [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) | [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 
 # Skills
 
