@@ -27,24 +27,8 @@ don't be shy to connect with me on LinkedIn 😁
 
 # Skills
 
-<h1  align="center">
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/javascript-%2300ADD8.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/typescript-%230db7ed.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/nodejs-%23326ce5.svg?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Jest-%232C5263.svg?style=for-the-badge&logo=Jest&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Sequelize-%23F05033.svg?style=for-the-badge&logo=Sequelize&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Sequelize-%2300ADD8.svg?style=for-the-badge&logo=Sequelize&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/express.js-%230db7ed.svg?style=for-the-badge&logo=Express&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/PostgreSQL-%232C5263.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/MongoDB-%23326ce5.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Docker-%2300ADD8.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/GithubActions-%230db7ed.svg?style=for-the-badge&logo=GithubActions&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/React-%2300ADD8.svg?style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Redux-%232C5263.svg?style=for-the-badge&logo=Redux&logoColor=white"/>
-</h1>
-<br>
-<br>
-<br>
+| ![Prisma - ORM](./images/prisma.svg) | ![Sequelize - ORM](./images/sequelize.svg) |     |
+| ------------------------------------ | ------------------------------------------ | --- |
 
 # (hopefully) Flashy stats 🤩
 
