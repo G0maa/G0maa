@@ -27,7 +27,11 @@ don't be shy to connect with me on LinkedIn 😁
 
 # Skills
 
+| Languages | ![JS](./images/js.svg) | ![TS](./images/ts.svg) |
+| --------- | ---------------------- | ---------------------- |
+
 | ORMs | ![Sequelize - ORM](./images/sequelize.svg) | ![Prisma - ORM](./images/prisma.svg) |
+| ---- | ------------------------------------------ | ------------------------------------ |
 
 # (hopefully) Flashy stats 🤩
 
