@@ -4,14 +4,15 @@
 # Salam 👋🏻, I'm Gomaa
 
 ```
-Senior computer science student at Higher Technological Institute,
-Problem Solver, and a Backend Web Developer.
-
-Tech stack is mainly React, Node.js, Express.js, MongoDB & PostgreSQL,
-also had practical experience with Docker & CI/CD while studying FullstackOpen course.
-
-ECPC Finalist & Co-Founder of ICPC HTI - Student activity.
+NodeJS backend developer & CS graduate,
+always interested in exploring new projects & getting to know new people,
+don't be shy to connect with me on LinkedIn 😁
 ```
+
+## Featured Projects
+- [My School](https://github.com/G0maa/my-school-server): A School Management System that answers four main queries; Grades, Fees, Subject Schedules & Subjects' Material.
+- [Songify API](https://github.com/G0maa/songify-app): A Music Recommendation System where I used RabbitMQ & ElasticSearch for a change.
+
 
 # Wanna catch up? 🧐
 
