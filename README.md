@@ -30,13 +30,13 @@ don't be shy to connect with me on LinkedIn 😁
 
 <!-- I think I can't remove this? -->
 
-|                       |                                            |                                      |
+|                       |                                            |                                      |                                |                                |
 | --------------------- | ------------------------------------------ | ------------------------------------ | ------------------------------ | ------------------------------ |
-| Programming Languages | ![JS](./images/js.svg)                     | ![TS](./images/ts.svg)               |
-| Runtimes              | ![NodeJS](./images/nodejs.svg)             |                                      |
-| Backend Frameworks    | ![Expres](./images/experss.svg)            | ![nesths](./images/nestjs.svg)       |
-| ORMs                  | ![Sequelize - ORM](./images/sequelize.svg) | ![Prisma - ORM](./images/prisma.svg) |
-| Databases             | ![PostgreSQL](./images/postgresql.svg)     | ![MongoDB](./images/mongodb.svg)     |
+| Programming Languages | ![JS](./images/js.svg)                     | ![TS](./images/ts.svg)               |                                |                                |
+| Runtimes              | ![NodeJS](./images/nodejs.svg)             |                                      |                                |                                |
+| Backend Frameworks    | ![Expres](./images/experss.svg)            | ![nesths](./images/nestjs.svg)       |                                |                                |
+| ORMs                  | ![Sequelize - ORM](./images/sequelize.svg) | ![Prisma - ORM](./images/prisma.svg) |                                |                                |
+| Databases             | ![PostgreSQL](./images/postgresql.svg)     | ![MongoDB](./images/mongodb.svg)     |                                |                                |
 | Frontend              | ![HTML](./images/html.svg)                 | ![CSS](./images/css.svg)             | ![Reactjs](./images/react.svg) | ![Reduxjs](./images/redux.svg) |
 
 # (hopefully) Flashy stats 🤩
