@@ -22,14 +22,8 @@ don't be shy to connect with me on LinkedIn 😁
 
 # Wanna catch up? 🧐
 
-<!-- I'm skeptical of this lasting for one year 25/2/2023 -->
-
-[![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)
-[![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)
-[![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername)
-
-| [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) | [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) | [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/yourusername) | [![LinkedIn](./images/twitter.svg)](https://twitter.com/_g0maa) | [![Gmail](./images/gmail.svg)](mailto:midomaxgomaa@gmail.com) |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------- |
 
 # Skills
 
