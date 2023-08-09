@@ -30,8 +30,8 @@ don't be shy to connect with me on LinkedIn 😁
 
 <!-- I think I can't remove this? -->
 
-- Backend: ![JS](./images/js.svg) ![TS](./images/ts.svg)
-- Frontend: ![HTML](./images/html.svg) ![CSS](./images/css.svg) ![Reactjs](./images/react.svg) ![Reduxjs](./images/redux.svg)
+- ![JS](./images/js.svg) ![TS](./images/ts.svg)
+- ![HTML](./images/html.svg) ![CSS](./images/css.svg) ![Reactjs](./images/react.svg) ![Reduxjs](./images/redux.svg)
 
 <!-- | Runtimes | ![NodeJS](./images/nodejs.svg) | | | |
 | Backend Frameworks | ![Expres](./images/experss.svg) | ![nesths](./images/nestjs.svg) | | |
