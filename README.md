@@ -27,8 +27,8 @@ don't be shy to connect with me on LinkedIn 😁
 
 # Skills
 
-| ![Prisma - ORM](./images/prisma.svg) | ![Sequelize - ORM](./images/sequelize.svg) |     |
-| ------------------------------------ | ------------------------------------------ | --- |
+| ORMs | ![Sequelize - ORM](./images/sequelize.svg) | ![Prisma - ORM](./images/prisma.svg) |
+| ---- | ------------------------------------------ | ------------------------------------ |
 
 # (hopefully) Flashy stats 🤩
 
