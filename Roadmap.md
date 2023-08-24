@@ -9,11 +9,11 @@
 
 ## Projects
 
-| Title                                     | Note                                                                       |
-| ----------------------------------------- | -------------------------------------------------------------------------- |
-| https://github.com/G0maa/songify-app      | Backend for a Music Recomendation System.                                  |
-| https://github.com/G0maa/my-school-server | Backend for a School Management System, answers four main queries: Subject |
-| https://github.com/G0maa/bloglist-app     | Full-stack Open Project (See Courses).                                     |
+| Title                                     | Note                                                                                                                                                                          |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| https://github.com/G0maa/songify-app      | Backend for a Music Recomendation System. that features user profiles, listening history, favorites, and personalized song recommendations based on history.                  |
+| https://github.com/G0maa/my-school-server | Backend for a School Management System, that provides users (Student, Teacher, and Admin) with access to grades, subject schedules, subjects’ material, and fees information. |
+| https://github.com/G0maa/bloglist-app     | Full-stack Open Project (See Courses).                                                                                                                                        |
 
 <!-- Unsure if I should put those, they're old, low quality, not well documented... -->
 <!-- | https://github.com/G0maa/ProjectOne                                            | Console program to help me (and others) to create their academic schedules and export them to a spreadsheet. |
