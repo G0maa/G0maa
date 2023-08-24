@@ -9,6 +9,18 @@
 
 ## Projects
 
+| Title                                     | Note                                                                       |
+| ----------------------------------------- | -------------------------------------------------------------------------- |
+| https://github.com/G0maa/songify-app      | Backend for a Music Recomendation System.                                  |
+| https://github.com/G0maa/my-school-server | Backend for a School Management System, answers four main queries: Subject |
+| https://github.com/G0maa/bloglist-app     | Full-stack Open Project (See Courses).                                     |
+
+<!-- Unsure if I should put those, they're old, low quality, not well documented... -->
+<!-- | https://github.com/G0maa/ProjectOne                                            | Console program to help me (and others) to create their academic schedules and export them to a spreadsheet. |
+| https://github.com/G0maa/OOP_Course_DrMostafaSaad/tree/master/AskMeOOP_Project | Related to OOP course, a console program that mimics AskFM.                                                  |
+| https://github.com/G0maa/OOP_Course_DrMostafaSaad/tree/master/eBook_Project    | Related to OOP Course, a console progroam that mimics an eBook reader.                                       |
+| https://github.com/G0maa/HelperFunctionsCPP                                    | Small collection of CPP functions that might be helpful in console programs.                                 | -->
+
 ## Contribtuions
 
 | PR                                                   | Comment                                  |
