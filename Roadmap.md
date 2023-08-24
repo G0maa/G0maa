@@ -18,8 +18,8 @@
 | https://github.com/keploy/typescript-sdk/pull/60            |
 | https://github.com/hmes98318/r6s-stats-api/issues/2         |
 | https://github.com/KieranRobson/Clarence-Bot/pull/51        |
-| https://github.com/Hexastack/eazychart/pull/70              |
 | https://github.com/KieranRobson/Clarence-Bot/pull/48        |
 | https://github.com/OtacilioN/awesome-hacktoberfest/pull/605 |
+| https://github.com/Hexastack/eazychart/pull/70              |
 
 ## MOOCs (Courses)
