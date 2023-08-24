@@ -5,12 +5,11 @@
 - Contains Self-studied MOOCs, contributions & projects.. maybe more.
 - Idea inspired by [Shawky's Roadmap](https://github.com/OmarShawky1/CS-Roadmap).
 - CS roadmap is the application of this video [Prof. Mostafa Saad CS Roadmap](https://youtu.be/b56XFMNEzAs?si=hZJiPl3FKIuPhqDS).
+- Everything _should_ be more or less in reverse chronological order (recent first).
 
 ## Projects
 
 ## Contribtuions
-
-- Reverse chronological order (recent first).
 
 | PR                                                   | Comment                                  |
 | ---------------------------------------------------- | ---------------------------------------- |
